@@ -1,0 +1,11 @@
+{
+  "clang-tidy.compilerArgs": [
+    "-Isubmodules/JUCE/modules/",
+  ],
+  "clang-tidy.buildPath": "${workspaceFolder}/build",
+  "files.associations": {
+    "*.css": "postcss",
+    "vector": "cpp",
+    "array": "cpp"
+  }
+}
